@@ -5,7 +5,7 @@ export const SITE = {
   phone: '9600713364',
   location: 'Salem, Tamil Nadu',
   // TODO: replace with real profile links when available
-  github: 'https://github.com/Sandysanthosh-R',
+  github: 'https://github.com/santhoshr-tech',
   linkedin: 'https://www.linkedin.com/in/santhosh-r-ab52aa372?utm_source=share_via&utm_content=profile&utm_medium=member_android',
   // TODO: replace with a real resume PDF placed in /public
   resume: '/SanthoshResumeFinal3project.pdf',
@@ -64,8 +64,8 @@ export const PROJECTS = [
       'Complaint management',
     ],
     stack: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'MongoDB'],
-    demo: '#',
-    repo: '#',
+    demo: 'https://safework-e3xc.onrender.com',
+    repo: 'https://github.com/santhoshr-tech/safework-mobile',
   },
   {
     title: 'AI Voice Assistant',
@@ -82,6 +82,21 @@ export const PROJECTS = [
     demo: '#',
     repo: '#',
   },
+  // {
+  //   title: 'AI Voice Assistant',
+  //   description:
+  //     'An intelligent desktop assistant that automates everyday tasks using speech recognition.',
+  //   highlights: [
+  //     'Speech Recognition',
+  //     'Text-to-Speech',
+  //     'Voice Commands',
+  //     'Web Browsing',
+  //     'Application Launcher',
+  //   ],
+  //   stack: ['Python'],
+  //   demo: '#',
+  //   repo: '#',
+  // },
   {
     title: 'Ticket Booking Website',
     description:
